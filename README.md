@@ -1,0 +1,2 @@
+# SIMPLE INSTALL
+- npm i
